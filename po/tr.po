@@ -1,14 +1,14 @@
 # Labwc pot file
 # Copyright (C) 2022
 # This file is distributed under the same license as the labwc package.
-# Oğuz Ersen <oguz@ersen.moe>, 2022.
+# Oğuz Ersen <oguz@ersen.moe>, 2022-2023.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: labwc\n"
 "Report-Msgid-Bugs-To: https://github.com/labwc/labwc/issues\n"
 "POT-Creation-Date: 2023-01-02 11:22+1000\n"
-"PO-Revision-Date: 2022-11-20 17:04+0300\n"
+"PO-Revision-Date: 2023-01-02 22:30+0300\n"
 "Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <tr>\n"
 "Language: tr\n"
@@ -46,15 +46,15 @@ msgstr "Her zaman üstte"
 
 #: src/menu/menu.c:662
 msgid "Move left"
-msgstr ""
+msgstr "Sola git"
 
 #: src/menu/menu.c:667
 msgid "Move right"
-msgstr ""
+msgstr "Sağa git"
 
 #: src/menu/menu.c:672
 msgid "Workspace"
-msgstr ""
+msgstr "Çalışma alanı"
 
 #: src/menu/menu.c:675
 msgid "Close"
